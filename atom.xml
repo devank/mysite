@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[blog]]></title>
+  <link href="https://devank.github.io/mysite/atom.xml" rel="self"/>
+  <link href="https://devank.github.io/mysite/"/>
+  <updated>2015-08-17T21:57:04+05:30</updated>
+  <id>https://devank.github.io/mysite/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[]]></email>
+  </author>
+  <generator uri="http://www.statiked.com/">Statiked</generator>
+
+  <entry>
+    <title type="html"><![CDATA[New]]></title>
+    <link href="https://devank.github.io/mysite/2015/08/17/New.html"/>
+    <updated>2015-08-17T16:27:13+00:00</updated>
+    <id>https://devank.github.io/mysite/2015/08/17/New.html</id>
+    <content type="html"><![CDATA[<p>New</p>
+]]></content>
+  </entry>
+
+  
+</feed>
